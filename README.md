@@ -4,8 +4,9 @@
 - 📫 How to reach me .. You can give me a mail on chekkapalli.venkat@iitg.ac.in
 
 
-
-Vistor Count :![Visitor Count](https://profile-counter.glitch.me/{vikas-4402}/count.svg)
+ 
+                                                         Vistor Count :
+                                    (https://profile-counter.glitch.me/{vikas-4402}/count.svg)
 <!---
 vikas-4402/vikas-4402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
